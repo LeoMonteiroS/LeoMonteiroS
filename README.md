@@ -37,8 +37,8 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeoMonteiroS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeoMonteiroS&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LeoMonteiroS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeoMonteiroS&theme=tokyonight&hide_border=true" height="150"/>
 </div>
 
 ---
@@ -51,8 +51,6 @@
   </h1>
   
 </div>
-
-![Snake animation](https://github.com/LeoMonteiroS/LeoMonteiroS/blob/output/github-contribution-grid-snake.svg)
 
 
 
