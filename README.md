@@ -52,6 +52,11 @@
   
 </div>
 
+<p align="center">
+  <img src="https://profile-counter.glitch.me/LeoMonteiroS/count.svg" alt="Contador de Visitantes" />
+</p>
+
+
 
 
 
