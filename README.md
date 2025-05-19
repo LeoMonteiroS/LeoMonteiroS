@@ -8,31 +8,34 @@
 </div>
 
 <h1 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Karla&weight=500&size=32&pause=1000&color=7DDFFC&background=FFFFFF00&width=435&lines=Hello!++My+name+is+Leonardo;I'm+backend+developer;Welcome+to+my+profile" />
+  <img src="https://readme-typing-svg.demolab.com?font=Karla&weight=500&size=32&pause=1000&color=7DDFFC&background=FFFFFF00&width=435&lines=Hello!++My+name+is+Leonardo;I'm+fontend+developer;Welcome+to+my+profile" />
 </h1>
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="50" alt="Photoshop" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" width="50" alt="Pytest" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" alt="FastAPI" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" alt="Flask" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" alt="Django" />
 </div>
 
 
 ## ✨ About Me
 
-🎯 Back-end Developer who turns coffee into code.
+🎨 I'm a Graphic Designer with years of experience in visual communication and print materials.
 
-🚀 Passionate about technologies
+💻 I'm transitioning into Tech, currently focused on Front-end Development and UI/UX Design.  
 
-🛠️ Always focused on best practices, clean architecture, and writing beautiful code that’s a pleasure to read.
+## 🛠️ Tech Stack & Tools
 
-📚 Constantly evolving. Always studying and learning new things
+- **Design:** CorelDRAW, Photoshop, InDesign  
+- **Front-end:** HTML5, CSS3, JavaScript, React.js  
+- **Back-end (learning):** Python, Flask  
+- **Other:** Git & GitHub, Visual Studio Code
 
 ---
 
