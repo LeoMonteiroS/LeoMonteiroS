@@ -50,9 +50,9 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeoMonteiroS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="100"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeoMonteiroS&theme=tokyonight&hide_border=true" height="100"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMonteiroS&layout=compact&theme=tokyonight" height="100"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LeoMonteiroS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="115"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeoMonteiroS&theme=tokyonight&hide_border=true" height="115"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMonteiroS&layout=compact&theme=tokyonight" height="115"/>
 </div>
 
 ---
@@ -78,24 +78,6 @@
 
 ---
 🧩 *“Artificial Intelligence is not the future — it’s the present. I’m just helping to build it.”*
-
-
-
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeoMonteiroS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeoMonteiroS&theme=tokyonight&hide_border=true" height="150"/>
-</div>
-
----
-
-
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/LeoMonteiroS/count.svg" alt="Contador de Visitantes" />
-</p>
 
 
 
