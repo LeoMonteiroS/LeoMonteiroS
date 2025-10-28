@@ -1,48 +1,68 @@
-
-
-
-
-
 <div align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" />
 </div>
 
-<h1 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Karla&weight=500&size=32&pause=1000&color=7DDFFC&background=FFFFFF00&width=435&lines=Hello!++My+name+is+Leonardo;I'm+fontend+developer;Welcome+to+my+profile" />
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Karla&weight=500&size=32&pause=1000&color=7DDFFC&background=FFFFFF00&width=435&lines=Hello!++My+name+is+Leonardo;Welcome+to+my+profile" />
 </h1>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="50" alt="Photoshop" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" alt="Flask" />
-</div>
-
-
-## ✨ About Me
-
-🎨 I'm a Graphic Designer with years of experience in visual communication and print materials.
-
-💻 I'm transitioning into Tech, currently focused on Front-end Development and UI/UX Design.  
-
-## 🛠️ Tech Stack & Tools
-
-- **Design:** CorelDRAW, Photoshop, InDesign  
-- **Front-end:** HTML5, CSS3, JavaScript, React.js  
-- **Back-end (learning):** Python, Flask  
-- **Other:** Git & GitHub, Visual Studio Code
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45" alt="TensorFlow logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="45" alt="PyTorch logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="45" alt="Scikit-learn logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="Pandas logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" alt="NumPy logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45" alt="Jupyter logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VSCode logo" />
+</p>
 
 ---
 
+## 🤖 About Me
+
+- 🎨 I started my career as a **Graphic Designer**, with several years of experience in **visual communication and creative design**.  
+- 💻 Currently, I’m transitioning into **Artificial Intelligence and Machine Learning**, aiming to become a **specialist and AI engineer**.  
+- 🧠 Passionate about **data, algorithms, and automation**, I’m focused on building intelligent solutions that solve real-world problems.  
+- 🚀 Constantly learning **Python, Deep Learning, NLP, and Computer Vision**.
+
+---
+
+## 🧰 Tech Stack & Tools
+
+### 🧠 AI & Machine Learning
+- Python • TensorFlow • PyTorch • Scikit-Learn  
+- Pandas • NumPy • Matplotlib • Seaborn  
+- Jupyter Notebook • Google Colab  
+
+### 💾 Data & Backend
+- Flask • SQL • SQLite • APIs • Data Preprocessing  
+
+### 🧑‍💻 Development & Tools
+- Git • GitHub • Visual Studio Code  
+
+### 🎨 Previous Experience (Design)
+- CorelDRAW • Photoshop • InDesign  
+
+---
+
+## 📈 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeoMonteiroS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeoMonteiroS&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LeoMonteiroS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="120"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeoMonteiroS&theme=tokyonight&hide_border=true" height="120"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMonteiroS&layout=compact&theme=tokyonight" height="120"/>
 </div>
+
+---
+
+## 📚 Currently Learning
+- Machine Learning Fundamentals  
+- Deep Learning Architectures  
+- Natural Language Processing (NLP)  
+- Computer Vision  
+- Data Science with Python  
 
 ---
 
@@ -54,6 +74,24 @@
   </h1>
   
 </div>
+
+
+---
+🧩 *“Artificial Intelligence is not the future — it’s the present. I’m just helping to build it.”*
+
+
+
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LeoMonteiroS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeoMonteiroS&theme=tokyonight&hide_border=true" height="150"/>
+</div>
+
+---
+
+
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/LeoMonteiroS/count.svg" alt="Contador de Visitantes" />
