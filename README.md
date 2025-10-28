@@ -50,9 +50,9 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeoMonteiroS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="120"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeoMonteiroS&theme=tokyonight&hide_border=true" height="120"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMonteiroS&layout=compact&theme=tokyonight" height="120"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LeoMonteiroS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="100"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeoMonteiroS&theme=tokyonight&hide_border=true" height="100"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMonteiroS&layout=compact&theme=tokyonight" height="100"/>
 </div>
 
 ---
