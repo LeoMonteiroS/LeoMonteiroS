@@ -7,15 +7,21 @@
 </h1>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45" alt="TensorFlow logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="45" alt="PyTorch logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="45" alt="Scikit-learn logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="Pandas logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" alt="NumPy logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45" alt="Jupyter logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VSCode logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" alt="Python" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="55" alt="FastAPI" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="55" alt="PostgreSQL" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="55" alt="Docker" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="55" alt="Git" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="55" alt="GitHub" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="55" alt="VSCode" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="55" alt="SQLAlchemy" />
 </p>
 
 ---
@@ -30,39 +36,23 @@
 ---
 
 ## 🧰 Tech Stack & Tools
-
-### 🧠 AI & Machine Learning
-- Python • TensorFlow • PyTorch • Scikit-Learn  
-- Pandas • NumPy • Matplotlib • Seaborn  
-- Jupyter Notebook • Google Colab  
-
-### 💾 Data & Backend
-- Flask • SQL • SQLite • APIs • Data Preprocessing  
-
-### 🧑‍💻 Development & Tools
-- Git • GitHub • Visual Studio Code  
-
-### 🎨 Previous Experience (Design)
-- CorelDRAW • Photoshop • InDesign  
+🐍 Python  
+🔗 APIs REST  
+🗄️ SQL  
+🐙 Git & GitHub  
+🧱 Arquitetura em Camadas  
+⚙️ Programação Orientada a Objetos  
+📌 Metodologias Ágeis 
 
 ---
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeoMonteiroS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="115"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeoMonteiroS&theme=tokyonight&hide_border=true" height="115"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMonteiroS&layout=compact&theme=tokyonight" height="115"/>
+<div align="">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeoMonteiroS&theme=tokyonight&hide_border=true" height="200"/>
 </div>
 
----
 
-## 📚 Currently Learning
-- Machine Learning Fundamentals  
-- Deep Learning Architectures  
-- Natural Language Processing (NLP)  
-- Computer Vision  
-- Data Science with Python  
 
 ---
 
@@ -70,14 +60,11 @@
   <h1>Let's connect? <br>
   <a href="https://www.instagram.com/leeumonteiro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:leeumonteiro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leonardo-monteiro-17b68b125/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/leonardo-monteiro-1a78a9386/details/experience/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </h1>
   
 </div>
 
-
----
-🧩 *“Artificial Intelligence is not the future — it’s the present. I’m just helping to build it.”*
 
 
 
