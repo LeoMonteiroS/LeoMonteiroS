@@ -7,43 +7,57 @@
 </h1>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" alt="Python" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="55" alt="FastAPI" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="55" alt="PostgreSQL" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="55" alt="Docker" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="55" alt="Git" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="55" alt="GitHub" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="55" alt="VSCode" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="55" alt="SQLAlchemy" />
+  Desenvolvedor Java Backend em formação | Spring Boot | APIs REST | PostgreSQL
 </p>
 
 ---
 
-## 🤖 About Me
+## 👨‍💻 Sobre Mim
 
-- 🎨 I started my career as a **Graphic Designer**, with several years of experience in **visual communication and creative design**.  
-- 💻 Currently, I’m transitioning into **Artificial Intelligence and Machine Learning**, aiming to become a **specialist and AI engineer**.  
-- 🧠 Passionate about **data, algorithms, and automation**, I’m focused on building intelligent solutions that solve real-world problems.  
-- 🚀 Constantly learning **Python, Deep Learning, NLP, and Computer Vision**.
+Sou formado em Análise e Desenvolvimento de Sistemas e pós-graduado em Engenharia de Software.  
+Atualmente estou direcionando minha carreira para Desenvolvimento Backend com foco em Java e arquitetura corporativa.
+Tenho experiência empreendedora na área de comunicação visual, o que fortaleceu minha visão de negócio, organização de processos e resolução de problemas.
+Meu objetivo é atuar como Desenvolvedor Java Backend em grandes empresas, contribuindo para a construção de sistemas robustos, escaláveis e bem estruturados.
 
 ---
 
-## 🧰 Tech Stack & Tools
-🐍 Python  
-🔗 APIs REST  
-🗄️ SQL  
-🐙 Git & GitHub  
-🧱 Arquitetura em Camadas  
-⚙️ Programação Orientada a Objetos  
-📌 Metodologias Ágeis 
+## 🚀 Stack Atual
 
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="50"/>
+</p>
+
+---
+
+## 📌 Foco Técnico
+
+- Java 
+- Spring Boot
+- REST APIs
+- JPA / Hibernate
+- PostgreSQL
+- Arquitetura em Camadas
+- Orientação a Objetos
+- Boas práticas e Clean Code
+
+---
+
+## 📂 Projetos em Destaque
+
+🔹 Em construção: API de Sistema Financeiro  
+🔹 Em construção: API de Gestão de Pedidos  
+
+---
+
+## 🎯 Objetivo Profissional
+
+Atuar como Desenvolvedor Java Backend em empresas de médio e grande porte, contribuindo para sistemas escaláveis e arquiteturas bem definidas.
 ---
 
 ## 📈 GitHub Stats
@@ -51,8 +65,6 @@
 <div align="">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeoMonteiroS&theme=tokyonight&hide_border=true" height="200"/>
 </div>
-
-
 
 ---
 
