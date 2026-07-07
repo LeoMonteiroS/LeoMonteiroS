@@ -44,14 +44,7 @@ Meu objetivo é atuar como Desenvolvedor Java Backend em grandes empresas, contr
 - PostgreSQL
 - Arquitetura em Camadas
 - Orientação a Objetos
-- Boas práticas e Clean Code
-
----
-
-## 📂 Projetos em Destaque
-
-🔹 Em construção: API de Sistema Financeiro  
-🔹 Em construção: API de Gestão de Pedidos  
+- Boas práticas e Clean Code 
 
 ---
 
