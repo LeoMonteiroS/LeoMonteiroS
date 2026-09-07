@@ -53,6 +53,13 @@ Meu objetivo é atuar como Desenvolvedor Java Backend em grandes empresas, contr
 Atuar como Desenvolvedor Java Backend em empresas de médio e grande porte, contribuindo para sistemas escaláveis e arquiteturas bem definidas.
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://leomonteiros.github.io/LeoMonteiroS/github-contribution-grid-snake-dark.svg">
+  <img alt="cobrinha de contribuições" src="https://leomonteiros.github.io/LeoMonteiroS/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
 ## 📈 GitHub Stats
 
 <div align="">
@@ -63,7 +70,7 @@ Atuar como Desenvolvedor Java Backend em empresas de médio e grande porte, cont
 
 <div align="left"> 
   <h1>Let's connect? <br>
-  <a href="https://www.instagram.com/leeumonteiro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/leom.tech/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:leeumonteiro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leonardo-monteiro-1a78a9386/details/experience/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </h1>
