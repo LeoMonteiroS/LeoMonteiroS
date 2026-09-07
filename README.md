@@ -14,7 +14,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou formado em Análise e Desenvolvimento de Sistemas e pós-graduado em Engenharia de Software.  
+Sou formado em Análise e Desenvolvimento de Sistemas e atualmente estou cursando Sistemas de Informação na Universidade Impacta.  
 Atualmente estou direcionando minha carreira para Desenvolvimento Backend com foco em Java e arquitetura corporativa.
 Tenho experiência empreendedora na área de comunicação visual, o que fortaleceu minha visão de negócio, organização de processos e resolução de problemas.
 Meu objetivo é atuar como Desenvolvedor Java Backend em grandes empresas, contribuindo para a construção de sistemas robustos, escaláveis e bem estruturados.
